@@ -1,3 +1,3 @@
-# docs
+# ui-kit
 
 Contenu à compléter.

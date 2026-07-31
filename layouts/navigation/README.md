@@ -1,3 +1,3 @@
-# docs
+# navigation
 
 Contenu à compléter.

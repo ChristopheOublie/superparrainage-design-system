@@ -1,3 +1,3 @@
-# docs
+# favicon
 
 Contenu à compléter.

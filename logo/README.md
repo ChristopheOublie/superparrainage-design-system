@@ -1,3 +1,3 @@
-# docs
+# logo
 
 Contenu à compléter.

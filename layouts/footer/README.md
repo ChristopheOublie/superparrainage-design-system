@@ -1,3 +1,3 @@
-# docs
+# footer
 
 Contenu à compléter.

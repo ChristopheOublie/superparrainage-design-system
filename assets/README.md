@@ -1,3 +1,3 @@
-# docs
+# assets
 
 Contenu à compléter.

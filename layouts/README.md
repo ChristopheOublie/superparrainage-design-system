@@ -1,3 +1,3 @@
-# docs
+# layouts
 
 Contenu à compléter.

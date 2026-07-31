@@ -1,1 +1,3 @@
-# Contributing
+# Contribuer
+
+Règles de contribution.

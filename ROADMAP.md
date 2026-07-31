@@ -1,6 +1,7 @@
 # Roadmap
 
 - Branding
+- Logo
 - UI Kit
-- Layout
+- Layouts
 - Pages

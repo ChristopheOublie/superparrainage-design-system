@@ -1,3 +1,3 @@
 # SuperParrainage Design System
 
-Official design repository.
+Dépôt officiel du Design System.

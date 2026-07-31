@@ -1,3 +1,3 @@
-# docs
+# mockups
 
 Contenu à compléter.
