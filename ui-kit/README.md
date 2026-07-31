@@ -1,3 +1,3 @@
-# ui-kit
+# ui
 
 Contenu à compléter.
