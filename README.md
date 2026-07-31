@@ -1,2 +1,3 @@
-# superparrainage-design-system
-Official Design System for SuperParrainage.fr
+# SuperParrainage Design System
+
+Official design repository.
